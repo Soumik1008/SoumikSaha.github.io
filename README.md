@@ -16,6 +16,8 @@ www.shapeai.tech or follow SHAPEAL ons
 
 <li><a href="https://in.linkedin.com/company/shapeal">Linkedin</a>
 
-<li><a href="https://www.instagram.com/shape.at/?hl=en>Instagram</a> href="https://www.youtube.com/channel/UCTUVDLTW9meuDXWebmISPA">YouTube</a>
+<li><a href="https://www.instagram.com/shape.at/?hl=en>Instagram</a> 
+  
+<li><a href="https://www.youtube.com/channel/UCTUVDLTW9meuDXWebmISPA">YouTube</a>
 
 <li><a href="https://github.com/shapeal">GitHub</a>
