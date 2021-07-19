@@ -2,7 +2,7 @@
 
 Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEA!
 
-</b>. The instructor during the session was Mr. Shaurya Sinha (a Data Analyst at Jio). I got to learn a lot during these 7 days and it was an amazing experience learning with SHAPEAL <br>I got to have hands on experience on:
+</b>. The instructor during the session was Mr. Shaurya Sinha (a Data Analyst at Jio). I got to learn a lot during these 7 days and it was an amazing experience learning with SHAPE AI <br>I got to have hands on experience on:
 
 <li>HTML.
 
@@ -12,7 +12,7 @@ Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEA!
 
 I enjoyed these 7 days, you can as well. To register for next free 7 days bootcamp, visit:
 
-www.shapeai.tech or follow SHAPEAL ons
+www.shapeai.tech or follow SHAPEAI ons
 
 <li><a href="https://in.linkedin.com/company/shapeal">Linkedin</a>
 
